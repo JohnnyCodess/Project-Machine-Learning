@@ -1,0 +1,9 @@
+GradientBoostingClassifier(learning_rate=0.01, max_depth=8, max_features='sqrt',
+                           min_samples_leaf=40, min_samples_split=200,
+                           n_estimators=1000, subsample=0.8)
+
+['GoogleAnalytics_PageValue', 'GoogleAnalytics_ExitRate', 'Product_Pages', 'AvgTimeOnAccountMng', 'Apple', 'Covid', 'Windows', 'Returner']
+
+GradientBoostingClassifier(learning_rate=0.01, max_depth=8, max_features='sqrt',
+                           min_samples_leaf=40, min_samples_split=200,
+                           n_estimators=1000, subsample=0.8)
