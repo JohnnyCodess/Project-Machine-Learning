@@ -7,3 +7,7 @@ GradientBoostingClassifier(max_depth=None, max_features='sqrt',
 MinMaxScaler(feature_range=(-1, 1))
 
 35
+
+Value Train0.69772
+
+Value Val0.64748
