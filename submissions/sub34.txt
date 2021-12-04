@@ -1,0 +1,13 @@
+GradientBoostingClassifier(max_depth=None, max_features='sqrt',
+                           min_samples_leaf=500, min_samples_split=500,
+                           n_estimators=200, subsample=0.7)
+
+['GoogleAnalytics_PageValue', 'GoogleAnalytics_ExitRate', 'Product_Pages', 'AvgTimeOnAccountMng', 'PropPages_AccountMng', 'PropTime_FAQ', 'Apple', 'Dec', 'Covid', 'Windows', 'New_Access']
+
+MinMaxScaler(feature_range=(-1, 1))
+
+55
+
+Value0.6698
+
+0.67329
