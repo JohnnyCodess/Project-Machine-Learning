@@ -1,0 +1,13 @@
+GradientBoostingClassifier(max_depth=None, max_features='sqrt',
+                           min_samples_leaf=500, min_samples_split=550,
+                           n_estimators=200, subsample=0.7)
+
+['GoogleAnalytics_PageValue', 'GoogleAnalytics_ExitRate', 'Total_Duration', 'Apple', 'Mar', 'Traffic_8', 'Traffic_3', 'Traffic_2', 'Windows', 'Traffic_12', 'Oct', 'Nov', 'May', 'Traffic_13', 'Feb', 'Dec', 'Covid', 'Returner']
+
+MinMaxScaler(feature_range=(-1, 1))
+
+45
+
+Train0.67534
+
+Val0.65724
