@@ -1,0 +1,9 @@
+GradientBoostingClassifier(learning_rate=0.2, max_depth=10, max_features='sqrt',
+                           min_samples_leaf=600, min_samples_split=500,
+                           n_estimators=200, subsample=1)
+
+['GoogleAnalytics_PageValue', 'GoogleAnalytics_ExitRate', 'Product_Pages', 'AvgTimeOnAccountMng', 'PropPages_AccountMng', 'Traffic_13', 'Traffic_12', 'Traffic_8', 'Traffic_3', 'Traffic_2', 'Traffic_15', 'Apple', 'Windows', 'Returner', 'New_Access', 'Covid', 'Dec', 'Feb', 'May', 'Mar', 'Nov', 'Oct']
+
+StandardScaler()
+
+50
